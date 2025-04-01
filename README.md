@@ -12,5 +12,5 @@ My work mainly focuses on GNOME:
 
 ![🐛](https://gitlab.gnome.org/World/design/icon-library/-/raw/master/data/resources/icon-dev-kit/bug-symbolic.svg) Veteran bug squasher. I leave issue trackers in a better shape than when I found them (if I have sufficient permissions, at least Reporter in GitLab).
 
-![🗒️](https://gitlab.gnome.org/World/design/icon-library/-/raw/master/data/resources/icon-dev-kit/notepad-symbolic.svg) Most of my activity happens at the [GNOME GitLab](https://gitlab.gnome.org/afranke)
+![🗒️](https://gitlab.gnome.org/World/design/icon-library/-/raw/master/data/resources/icon-dev-kit/notepad-symbolic.svg) Most of my activity happens at the [GNOME GitLab](https://gitlab.gnome.org/afranke). More details on what I do are available on [my website](https://alexandrefranke.com/floss/).
 
